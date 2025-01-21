@@ -84,7 +84,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Contributors
 
-- [Triparna Chakraborty](https://github.com/username1)
+- [Triparna Chakraborty](https://github.com/Triparna18)
 - [Ankita Paul](https://github.com/username2)
 
 ## License
