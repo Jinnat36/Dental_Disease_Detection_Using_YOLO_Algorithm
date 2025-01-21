@@ -43,6 +43,9 @@ This project is an AI-powered tool designed to assist dentists in identifying co
 - To enhance patient care with clear and reliable results.
 
 ## User Manual
+1.![Image](https://github.com/user-attachments/assets/ee08eb19-730a-4188-ba3b-8fde90d81452)
+2.![Image](https://github.com/user-attachments/assets/9800e7a7-f76d-4093-b517-1ff8df7019d4)
+3.![Image](https://github.com/user-attachments/assets/e27865e6-f010-4e6b-b837-9e62dffed040)
 
 ## Installation
 
