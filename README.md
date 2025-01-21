@@ -42,6 +42,8 @@ This project is an AI-powered tool designed to assist dentists in identifying co
 - To improve diagnostic accuracy and efficiency.
 - To enhance patient care with clear and reliable results.
 
+## User Manual
+
 ## Installation
 
 1. Clone this repository:
